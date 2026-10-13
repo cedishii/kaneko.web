@@ -1,0 +1,8045 @@
+{
+  "generatedAt": "2026-10-13T14:32:24.707Z",
+  "username": "cedishii",
+  "profile": {
+    "login": "cedishii",
+    "name": "Cedrick Kaneko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141969356?v=4",
+    "bio": "Cybersecurity Graduate from Mapua University | BSIT ",
+    "publicRepos": 14,
+    "followers": 7,
+    "following": 8,
+    "htmlUrl": "https://github.com/cedishii",
+    "createdAt": "2023-08-10T22:52:22Z"
+  },
+  "stars": 2,
+  "contributions": {
+    "source": "github-graphql",
+    "total": 194,
+    "years": [
+      {
+        "year": 2026,
+        "total": 173
+      },
+      {
+        "year": 2025,
+        "total": 17
+      },
+      {
+        "year": 2024,
+        "total": 2
+      },
+      {
+        "year": 2023,
+        "total": 2
+      }
+    ],
+    "days": [
+      {
+        "date": "2023-01-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-01-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-02-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-03-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-04-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-05-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-06-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-07-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-11",
+        "count": 2,
+        "level": 4
+      },
+      {
+        "date": "2023-08-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-08-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-09-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-10-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-11-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2023-12-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-01-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-02-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-03-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-04-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-05-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-14",
+        "count": 2,
+        "level": 4
+      },
+      {
+        "date": "2024-06-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-06-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-07-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-08-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-09-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-10-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-11-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2024-12-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-01-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-02-28",
+        "count": 3,
+        "level": 3
+      },
+      {
+        "date": "2025-03-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-07",
+        "count": 2,
+        "level": 2
+      },
+      {
+        "date": "2025-03-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-15",
+        "count": 2,
+        "level": 2
+      },
+      {
+        "date": "2025-03-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-03-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-04-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-05-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-06-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-07-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-08-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-03",
+        "count": 2,
+        "level": 2
+      },
+      {
+        "date": "2025-09-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-09-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-09",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2025-10-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-26",
+        "count": 5,
+        "level": 4
+      },
+      {
+        "date": "2025-10-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-10-31",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2025-11-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-04",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2025-11-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-11-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2025-12-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-01-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-02-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-12",
+        "count": 2,
+        "level": 1
+      },
+      {
+        "date": "2026-03-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-03-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-08",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2026-04-09",
+        "count": 5,
+        "level": 2
+      },
+      {
+        "date": "2026-04-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-11",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2026-04-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-13",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2026-04-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-24",
+        "count": 25,
+        "level": 4
+      },
+      {
+        "date": "2026-04-25",
+        "count": 3,
+        "level": 1
+      },
+      {
+        "date": "2026-04-26",
+        "count": 3,
+        "level": 1
+      },
+      {
+        "date": "2026-04-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-04-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-05",
+        "count": 36,
+        "level": 4
+      },
+      {
+        "date": "2026-05-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-22",
+        "count": 5,
+        "level": 2
+      },
+      {
+        "date": "2026-05-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-28",
+        "count": 15,
+        "level": 4
+      },
+      {
+        "date": "2026-05-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-05-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-10",
+        "count": 3,
+        "level": 1
+      },
+      {
+        "date": "2026-06-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-06-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-07",
+        "count": 9,
+        "level": 2
+      },
+      {
+        "date": "2026-07-08",
+        "count": 12,
+        "level": 3
+      },
+      {
+        "date": "2026-07-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-16",
+        "count": 5,
+        "level": 2
+      },
+      {
+        "date": "2026-07-17",
+        "count": 7,
+        "level": 2
+      },
+      {
+        "date": "2026-07-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-19",
+        "count": 4,
+        "level": 1
+      },
+      {
+        "date": "2026-07-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-07-30",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2026-07-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-08-31",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-04",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-06",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-07",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-12",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-13",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-14",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-15",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-16",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-17",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-18",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-19",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-20",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-21",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-22",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-23",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-24",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-25",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-26",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-27",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-28",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-29",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-09-30",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-01",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-02",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-03",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-04",
+        "count": 3,
+        "level": 1
+      },
+      {
+        "date": "2026-10-05",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-06",
+        "count": 7,
+        "level": 2
+      },
+      {
+        "date": "2026-10-07",
+        "count": 1,
+        "level": 1
+      },
+      {
+        "date": "2026-10-08",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-09",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-10",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-11",
+        "count": 0,
+        "level": 0
+      },
+      {
+        "date": "2026-10-12",
+        "count": 18,
+        "level": 4
+      },
+      {
+        "date": "2026-10-13",
+        "count": 6,
+        "level": 2
+      }
+    ]
+  },
+  "repos": [
+    {
+      "name": "project-1000",
+      "fullName": "cedishii/project-1000",
+      "owner": "cedishii",
+      "description": "Project: 1000 — 1000 Things Before I Die. A private, offline bucket list and memory journal for Android and iOS.",
+      "htmlUrl": "https://github.com/cedishii/project-1000",
+      "homepage": null,
+      "language": "Dart",
+      "languages": {
+        "Dart": 766193,
+        "PLpgSQL": 138494,
+        "Python": 85804,
+        "Kotlin": 3388,
+        "HTML": 1821,
+        "Swift": 900,
+        "Objective-C": 38
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-10-05T22:19:13Z",
+      "pushedAt": "2026-10-13T11:03:48Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 28,
+        "releases": 7,
+        "fileCount": 250,
+        "treeTruncated": false,
+        "topDirs": [
+          "android",
+          "assets",
+          "design",
+          "docs",
+          "integration_test",
+          "ios",
+          "lib",
+          "supabase",
+          "test",
+          "test_driver",
+          "tool",
+          "web"
+        ],
+        "tech": [
+          "Android",
+          "Dart",
+          "Flutter",
+          "HTML",
+          "PDF generation",
+          "Python",
+          "SQL",
+          "SQLite",
+          "Supabase"
+        ],
+        "readme": {
+          "title": "Project: 1000 — 1000 Things Before I Die",
+          "summary": "A private, offline bucket list and memory journal for Android and iOS.",
+          "headings": [
+            "Features",
+            "Technology",
+            "Project structure",
+            "Running locally",
+            "Building",
+            "How your data is stored",
+            "Backup, restore and moving to a new phone",
+            "Privacy",
+            "Accounts, the website and Friends",
+            "Known limitations",
+            "Releases",
+            "License"
+          ],
+          "features": [
+            "Starts empty. The list contains only what you write. There are no sample items or suggestions.",
+            "Up to 1,000 items, each with a permanent number (#001 … #1000).",
+            "Your order is never changed by the app. Completing, editing, searching or filtering never moves an item. Order changes only when you reorder (drag, arrows, or \"move to place…\").",
+            "Completion with dates. Choose the day you did it, past dates included. Un-completing keeps the old date on record.",
+            "Memories: any number per item, each with optional title, text, date, location, hashtags and multiple photos.",
+            "Photos are stored privately inside the app, with thumbnails and a full-screen swipe/zoom viewer.",
+            "Search across numbers, titles, descriptions, memory text, locations and #hashtags; filters for All / Completed / Not completed.",
+            "Progress: completed, remaining and percentage of 1,000.",
+            "Profile, EXP and levels. Every completed thing is worth exactly 1,000 EXP and every 10 things is a level, up to Level 100 at 1,000 / 1,000. It is always calculated from the list, never stored or granted any other way, and it never affects the order.",
+            "Journeys. Finishing all 1,000 things completes a journey. You choose when to archive it and begin the next (reusing your list or starting fresh). Every archived journey is kept in full, read-only.",
+            "Life Album for each journey: your completed things and memories as a book, in your list's order, exportable as a PDF.",
+            "Backup & restore to a single .zip file for moving to a new phone. Every file is checksum-verified before anything is replaced.",
+            "Light, dark or system theme."
+          ]
+        },
+        "ownership": {
+          "yourCommits": 28,
+          "totalCommits": 28,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 28
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "cedishii",
+      "fullName": "cedishii/cedishii",
+      "owner": "cedishii",
+      "description": "Config files for my GitHub profile.",
+      "htmlUrl": "https://github.com/cedishii/cedishii",
+      "homepage": "https://github.com/cedishii",
+      "language": null,
+      "languages": {},
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [
+        "config",
+        "github-config"
+      ],
+      "license": null,
+      "createdAt": "2023-08-10T23:14:45Z",
+      "pushedAt": "2026-10-12T22:01:50Z",
+      "analysis": {
+        "category": "profile",
+        "categoryReasons": [
+          "GitHub profile README repository"
+        ],
+        "commits": 17,
+        "releases": 0,
+        "fileCount": 1,
+        "treeTruncated": false,
+        "topDirs": [],
+        "tech": [],
+        "readme": {
+          "title": null,
+          "summary": "Information Technology graduate from Mapúa University with a specialization in Cybersecurity and Networking, hands-on experience building full-stack web systems and backend services, and a strong foundation in secure application design, database management, API development, and network security.",
+          "headings": [
+            "About Me",
+            "Education",
+            "Experience",
+            "Backend Developer Intern → Assistant Lead, Zhiyuan Enterprise Group Inc.",
+            "Languages",
+            "Frameworks & Tools",
+            "Cybersecurity",
+            "Projects",
+            "Consulta: Academic Consultation Booking System",
+            "NewsCheck (Web): AI-Based Fake News Detection & Verification Platform",
+            "Action Cloner: Lightweight Macro Recorder & Auto Clicker for Windows",
+            "SK Barangay Esperanza Ilaya: Community Web Portal",
+            "OmniTool: All-in-One Android Utility Toolkit",
+            "Certifications",
+            "Hobbies & Interests",
+            "GitHub Stats"
+          ],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 17,
+          "totalCommits": 17,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 17
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ustet-reviewer",
+      "fullName": "cedishii/ustet-reviewer",
+      "owner": "cedishii",
+      "description": "Unofficial offline study app for the UST college entrance test (USTET): lessons, flashcards, quizzes, timed mock exams.",
+      "htmlUrl": "https://github.com/cedishii/ustet-reviewer",
+      "homepage": "https://cedishii.github.io/ustet-reviewer/",
+      "language": "JavaScript",
+      "languages": {
+        "JavaScript": 134498,
+        "CSS": 20080,
+        "HTML": 2996
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-10-04T14:19:06Z",
+      "pushedAt": "2026-10-07T09:15:03Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 3,
+        "releases": 0,
+        "fileCount": 24,
+        "treeTruncated": false,
+        "topDirs": [
+          "assets",
+          "css",
+          "data",
+          "js"
+        ],
+        "tech": [
+          "CSS",
+          "HTML"
+        ],
+        "readme": {
+          "title": "USTET Reviewer",
+          "summary": "A simple, free, offline-capable study app for the University of Santo Tomas (UST) college entrance test (USTET), targeting the A.Y. 2027–2028 admissions cycle. It runs on a phone or laptop and needs no account, internet connection, or payment.",
+          "headings": [
+            "Features",
+            "How to run",
+            "Option A: Run a tiny local server (recommended)",
+            "Option B: Open index.html directly",
+            "Install as an app and use offline (PWA)",
+            "On your laptop (Edge or Chrome)",
+            "On your phone",
+            "Using it on your phone without publishing",
+            "How offline mode works (sw.js)",
+            "Troubleshooting",
+            "Folder structure",
+            "Editing content (no code changes needed)",
+            "data/subjects.json",
+            "data/lessons.json",
+            "data/flashcards.json",
+            "data/questions.json",
+            "data/mock-exam.json",
+            "How to add a lesson",
+            "How to add a flashcard",
+            "How to add a question"
+          ],
+          "features": [
+            "Home screen with subjects and progress",
+            "Lessons (Subject → Topic → Lesson), mark complete",
+            "Flashcards with flip, Known / Review Again, shuffle, \"not yet known\" decks",
+            "Topic quizzes with instant feedback, explanations, retry missed questions",
+            "Timed mock exam (Standard, Even practice, Custom) with time-pressure meter",
+            "Progress screen: per-subject stats, topics to review, quiz and mock history, reset",
+            "Install as an app / works offline (PWA)"
+          ]
+        },
+        "ownership": {
+          "yourCommits": 3,
+          "totalCommits": 3,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 3
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "kaneko.web",
+      "fullName": "cedishii/kaneko.web",
+      "owner": "cedishii",
+      "description": "kaneko.web is my personal tech portfolio where I showcase everything I’m building and learning — from system administration and server setups to cybersecurity projects and web deployments. It’s my space to track progress, share work, and grow as a tech professional.",
+      "htmlUrl": "https://github.com/cedishii/kaneko.web",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-07-30T13:00:09Z",
+      "pushedAt": "2026-07-30T13:00:10Z",
+      "analysis": {
+        "category": "empty",
+        "categoryReasons": [
+          "Repository has no files"
+        ],
+        "commits": 0,
+        "releases": 0,
+        "fileCount": 0,
+        "treeTruncated": false,
+        "topDirs": [],
+        "tech": [],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 0,
+          "totalCommits": 0,
+          "contributors": [],
+          "soleAuthor": false
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ConsultSiya",
+      "fullName": "cedishii/ConsultSiya",
+      "owner": "cedishii",
+      "description": "thesis project",
+      "htmlUrl": "https://github.com/cedishii/ConsultSiya",
+      "homepage": "https://consult-siya.vercel.app",
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 1301120,
+        "JavaScript": 317255,
+        "CSS": 9054
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-04-09T03:05:32Z",
+      "pushedAt": "2026-07-24T05:23:36Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 445,
+        "releases": 0,
+        "fileCount": 109,
+        "treeTruncated": false,
+        "topDirs": [
+          "backend",
+          "frontend"
+        ],
+        "tech": [
+          "CSS",
+          "Cloudinary",
+          "Docker",
+          "ExcelJS",
+          "Express",
+          "Helmet",
+          "JWT",
+          "Multer",
+          "Next.js",
+          "Node.js",
+          "Nodemailer",
+          "PDFKit",
+          "PostgreSQL",
+          "Rate limiting",
+          "React",
+          "Recharts",
+          "SQL",
+          "Tailwind CSS",
+          "TypeScript",
+          "Vercel",
+          "bcrypt",
+          "express-validator",
+          "pdf-lib"
+        ],
+        "readme": {
+          "title": "Consulta",
+          "summary": "Academic consultation booking system for Mapúa University SOIT. Students book consultation slots with professors. Professors manage schedules and log outcomes. Admins monitor all activity.",
+          "headings": [
+            "Tech Stack",
+            "Project Structure",
+            "Getting Started",
+            "Prerequisites",
+            "1. Database",
+            "2. Backend",
+            "3. Frontend",
+            "Deployment",
+            "Roles & Features",
+            "Student",
+            "Professor",
+            "Admin",
+            "Security",
+            "Implemented",
+            "To-do for production",
+            "API Endpoints",
+            "Auth — /api/auth",
+            "Chatbot — /api/chat",
+            "Schedules — /api/schedules",
+            "Consultations — /api/consultations"
+          ],
+          "features": [
+            "Browse professor availability and book consultation slots",
+            "Choose date, time, mode (Face-to-Face / Online), and nature of concern",
+            "View, cancel, and track consultation history grouped by quarter",
+            "Download blank advising slip template; upload signed form after session",
+            "Password reset — request a reset link via email; set a new password via token",
+            "Home page — current academic week, term progress, countdown to finals",
+            "Help Center — usage guide, submission guidelines, expandable FAQs",
+            "Chatbot — full FAQ widget powered by Claude API; answers questions about professors, booking steps, policies, and concern types",
+            "My Consultations — confirm (with optional meeting link for Online), complete (action taken, referral, remarks), or reschedule bookings",
+            "Manage Schedules — create slots with multiple time ranges per date, set location",
+            "Export Report — PDF or Excel report filtered by period (week / semester / year)",
+            "History — past sessions grouped by quarter",
+            "Home and Help Center accessible from sidebar",
+            "View all consultations with stats (total / pending / confirmed / completed / cancelled)",
+            "User management: approve, reject, deactivate/reactivate, create, delete accounts",
+            "Promote/demote professors to/from admin (max 2 admins enforced)"
+          ]
+        },
+        "ownership": {
+          "yourCommits": 78,
+          "totalCommits": 445,
+          "contributors": [
+            {
+              "login": "GeeCyy",
+              "commits": 306
+            },
+            {
+              "login": "cedishii",
+              "commits": 78
+            },
+            {
+              "login": "akujeeez",
+              "commits": 61
+            }
+          ],
+          "soleAuthor": false
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ActionCloner",
+      "fullName": "cedishii/ActionCloner",
+      "owner": "cedishii",
+      "description": "A combination of tiny task and infoormal task. for smooth usage.",
+      "htmlUrl": "https://github.com/cedishii/ActionCloner",
+      "homepage": null,
+      "language": "C#",
+      "languages": {
+        "C#": 171190
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": "MIT",
+      "createdAt": "2026-07-18T17:02:30Z",
+      "pushedAt": "2026-07-19T07:50:24Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 1,
+        "releases": 1,
+        "fileCount": 25,
+        "treeTruncated": false,
+        "topDirs": [
+          "ActionCloner"
+        ],
+        "tech": [
+          ".NET 8",
+          "C#",
+          "WinForms"
+        ],
+        "readme": {
+          "title": "Action Cloner",
+          "summary": "A small, fast Windows macro recorder in the spirit of TinyTask. It records global mouse and keyboard activity and replays it back with millisecond-accurate, drift-free timing.",
+          "headings": [
+            "Build",
+            "Lightweight publish",
+            "Usage",
+            "Hotkeys",
+            "Feedback while minimized",
+            "Failsafe",
+            "Elevation",
+            "Auto clicker",
+            "Library",
+            "Discord notifications",
+            "Creating a webhook",
+            "What gets sent",
+            "Notes",
+            "Performance",
+            "Layout & DPI scaling",
+            "File format",
+            "Known limitations",
+            "Project structure"
+          ],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 1,
+          "totalCommits": 1,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "Android-Toolkit",
+      "fullName": "cedishii/Android-Toolkit",
+      "owner": "cedishii",
+      "description": "-- a combination of tools that is used in everyday life -- in development for now",
+      "htmlUrl": "https://github.com/cedishii/Android-Toolkit",
+      "homepage": null,
+      "language": "HTML",
+      "languages": {
+        "HTML": 134059,
+        "Dart": 41461,
+        "C++": 26099,
+        "CMake": 19816,
+        "Swift": 2336,
+        "C": 1488,
+        "Kotlin": 129,
+        "Objective-C": 38
+      },
+      "stars": 2,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-07-17T06:11:33Z",
+      "pushedAt": "2026-07-17T08:54:52Z",
+      "analysis": {
+        "category": "in-progress",
+        "categoryReasons": [
+          "Description says it is still in development"
+        ],
+        "commits": 2,
+        "releases": 1,
+        "fileCount": 144,
+        "treeTruncated": false,
+        "topDirs": [
+          "omnitool"
+        ],
+        "tech": [
+          "Android",
+          "Dart",
+          "Flutter",
+          "HTML",
+          "Syncfusion PDF"
+        ],
+        "readme": {
+          "title": "Android-Toolkit",
+          "summary": null,
+          "headings": [],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 2,
+          "totalCommits": 2,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 2
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "KanekoLE4",
+      "fullName": "cedishii/KanekoLE4",
+      "owner": "cedishii",
+      "description": null,
+      "htmlUrl": "https://github.com/cedishii/KanekoLE4",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-10-31T02:21:32Z",
+      "pushedAt": "2025-11-04T07:37:11Z",
+      "analysis": {
+        "category": "empty",
+        "categoryReasons": [
+          "Repository has no files"
+        ],
+        "commits": 1,
+        "releases": 0,
+        "fileCount": 0,
+        "treeTruncated": false,
+        "topDirs": [],
+        "tech": [],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 1,
+          "totalCommits": 1,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "KanekoLE3",
+      "fullName": "cedishii/KanekoLE3",
+      "owner": "cedishii",
+      "description": "System Integration Laboratory LE3 activity",
+      "htmlUrl": "https://github.com/cedishii/KanekoLE3",
+      "homepage": null,
+      "language": "C#",
+      "languages": {
+        "C#": 9878,
+        "TSQL": 1993
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-10-26T01:19:47Z",
+      "pushedAt": "2025-10-26T01:33:15Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "Name or description matches a course activity pattern"
+        ],
+        "commits": 4,
+        "releases": 0,
+        "fileCount": 23,
+        "treeTruncated": false,
+        "topDirs": [
+          "BlogTestUI",
+          "KanekoBlogDB",
+          "KanekoLE2"
+        ],
+        "tech": [
+          ".NET 8",
+          "C#",
+          "Dapper",
+          "SQL",
+          "SQL Server"
+        ],
+        "readme": {
+          "title": "KanekoLE3",
+          "summary": "continuation of the previous activity",
+          "headings": [],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 4,
+          "totalCommits": 4,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 4
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "KanekoLE2",
+      "fullName": "cedishii/KanekoLE2",
+      "owner": "cedishii",
+      "description": "System Integ LE2 - FOPM01",
+      "htmlUrl": "https://github.com/cedishii/KanekoLE2",
+      "homepage": null,
+      "language": "C#",
+      "languages": {
+        "C#": 4885,
+        "TSQL": 522
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-09-02T23:56:37Z",
+      "pushedAt": "2025-09-03T00:14:07Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "Name or description matches a course activity pattern"
+        ],
+        "commits": 1,
+        "releases": 0,
+        "fileCount": 448,
+        "treeTruncated": false,
+        "topDirs": [
+          "BlogDataLibrary",
+          "BlogTestUI",
+          "KanekoBlogDB"
+        ],
+        "tech": [
+          ".NET 8",
+          ".NET Framework",
+          "C#",
+          "Dapper",
+          "SQL",
+          "SQL Server"
+        ],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 1,
+          "totalCommits": 1,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ITS121-1L",
+      "fullName": "cedishii/ITS121-1L",
+      "owner": "cedishii",
+      "description": "Final Project",
+      "htmlUrl": "https://github.com/cedishii/ITS121-1L",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-03-15T05:53:23Z",
+      "pushedAt": "2025-03-15T05:53:56Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "Name or description matches a course activity pattern"
+        ],
+        "commits": 1,
+        "releases": 0,
+        "fileCount": 1,
+        "treeTruncated": false,
+        "topDirs": [],
+        "tech": [],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 1,
+          "totalCommits": 1,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ResponsiveHomework",
+      "fullName": "cedishii/ResponsiveHomework",
+      "owner": "cedishii",
+      "description": "my assignment for the activity, THIS IS MY OWN",
+      "htmlUrl": "https://github.com/cedishii/ResponsiveHomework",
+      "homepage": null,
+      "language": "HTML",
+      "languages": {
+        "HTML": 2161,
+        "CSS": 1446
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-03-07T12:05:30Z",
+      "pushedAt": "2025-03-07T12:07:36Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "Name or description matches a course activity pattern"
+        ],
+        "commits": 1,
+        "releases": 0,
+        "fileCount": 11,
+        "treeTruncated": false,
+        "topDirs": [
+          "responsiveHomework"
+        ],
+        "tech": [
+          "CSS",
+          "HTML"
+        ],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 1,
+          "totalCommits": 1,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "Rock-Paper-Scissor-Lizard-Spock",
+      "fullName": "cedishii/Rock-Paper-Scissor-Lizard-Spock",
+      "owner": "cedishii",
+      "description": "the code for the question",
+      "htmlUrl": "https://github.com/cedishii/Rock-Paper-Scissor-Lizard-Spock",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 2726
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-02-28T08:29:11Z",
+      "pushedAt": "2025-02-28T08:33:51Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "File names match a course activity pattern"
+        ],
+        "commits": 2,
+        "releases": 0,
+        "fileCount": 2,
+        "treeTruncated": false,
+        "topDirs": [],
+        "tech": [
+          "Python"
+        ],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 2,
+          "totalCommits": 2,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 2
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ITS131-ACT1-ASYCHRONOUS",
+      "fullName": "cedishii/ITS131-ACT1-ASYCHRONOUS",
+      "owner": "cedishii",
+      "description": "Live SQL activity for reference (It may not be the same, but will definitely be similar)",
+      "htmlUrl": "https://github.com/cedishii/ITS131-ACT1-ASYCHRONOUS",
+      "homepage": null,
+      "language": null,
+      "languages": {},
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2024-06-14T05:12:53Z",
+      "pushedAt": "2024-06-14T05:43:24Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "Name or description matches a course activity pattern"
+        ],
+        "commits": 1,
+        "releases": 0,
+        "fileCount": 1,
+        "treeTruncated": false,
+        "topDirs": [],
+        "tech": [],
+        "readme": null,
+        "ownership": {
+          "yourCommits": 1,
+          "totalCommits": 1,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    }
+  ],
+  "externalRepos": [
+    {
+      "name": "CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya",
+      "fullName": "RedzerRiley/CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya",
+      "owner": "RedzerRiley",
+      "description": null,
+      "htmlUrl": "https://github.com/RedzerRiley/CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya",
+      "homepage": null,
+      "language": "PHP",
+      "languages": {
+        "PHP": 224006,
+        "CSS": 36987,
+        "Dockerfile": 147
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-03-11T12:33:37Z",
+      "pushedAt": "2026-03-14T12:09:08Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 38,
+        "releases": 0,
+        "fileCount": 32,
+        "treeTruncated": false,
+        "topDirs": [
+          "admin",
+          "assets",
+          "database",
+          "includes"
+        ],
+        "tech": [
+          "CSS",
+          "Docker",
+          "PHP",
+          "SQL"
+        ],
+        "readme": {
+          "title": "CRUD-Web-Page-for-SK-Brgy-Esperanza-Ilaya",
+          "summary": null,
+          "headings": [],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 2,
+          "totalCommits": 38,
+          "contributors": [
+            {
+              "login": "RedzerRiley",
+              "commits": 34
+            },
+            {
+              "login": "cedishii",
+              "commits": 2
+            },
+            {
+              "login": "miekkelld",
+              "commits": 2
+            }
+          ],
+          "soleAuthor": false
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "ITS120LProj_Grp6",
+      "fullName": "neoboi76/ITS120LProj_Grp6",
+      "owner": "neoboi76",
+      "description": "NewsCheck: AI-Based Fake News Detection and Verification Platform",
+      "htmlUrl": "https://github.com/neoboi76/ITS120LProj_Grp6",
+      "homepage": null,
+      "language": "Java",
+      "languages": {
+        "Java": 175164,
+        "HTML": 97781,
+        "TypeScript": 88532,
+        "CSS": 3651,
+        "Dockerfile": 413
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2025-09-30T03:43:39Z",
+      "pushedAt": "2026-03-09T13:51:22Z",
+      "analysis": {
+        "category": "coursework",
+        "categoryReasons": [
+          "Name or description matches a course activity pattern"
+        ],
+        "commits": 70,
+        "releases": 0,
+        "fileCount": 200,
+        "treeTruncated": false,
+        "topDirs": [
+          ".github",
+          "Docker test",
+          "newscheck-frontend",
+          "newscheck",
+          "untitled"
+        ],
+        "tech": [
+          "Angular",
+          "CSS",
+          "Docker",
+          "GitHub Actions",
+          "HTML",
+          "JPA / Hibernate",
+          "JWT",
+          "Java",
+          "Maven",
+          "MySQL",
+          "Node.js",
+          "PostgreSQL",
+          "Spring Boot",
+          "Spring Security",
+          "Tailwind CSS",
+          "TypeScript"
+        ],
+        "readme": {
+          "title": "NewsCheck: AI-Based Fake News Detection and Verification Platform",
+          "summary": "[](https://www.oracle.com/java/) [](https://spring.io/projects/spring-boot) [](https://angular.io/) [](https://www.postgresql.org/)",
+          "headings": [
+            "Table of Contents",
+            "Overview",
+            "Features",
+            "Tech Stack",
+            "Backend",
+            "Frontend",
+            "AI & APIs",
+            "DevOps",
+            "Prerequisites",
+            "Required Software",
+            "API Keys Required",
+            "Local Setup (Manual)",
+            "Step 1: Clone the Repository",
+            "Step 2: Database Setup",
+            "Step 3: Backend Setup",
+            "Step 4: Frontend Setup",
+            "Testing the Application",
+            "Docker Setup",
+            "Prerequisites",
+            "Step 1: Clone the Repository"
+          ],
+          "features": [
+            "AI-Powered Verification: Utilizes Google Gemini API for advanced natural language processing",
+            "Multi-Source Evidence: Automatically gathers and analyzes evidence from credible news sources",
+            "OCR Capabilities: Extract and verify text from images using Gemini Vision",
+            "Verification History: Track all past verifications with detailed audit trails",
+            "Admin Dashboard: Comprehensive management tools for users, verifications, and audit logs",
+            "Responsive Design: Modern UI built with Angular and Tailwind CSS",
+            "Secure Authentication: JWT-based auth with token blacklisting on logout"
+          ]
+        },
+        "ownership": {
+          "yourCommits": 0,
+          "totalCommits": 70,
+          "contributors": [
+            {
+              "login": "neoboi76",
+              "commits": 69
+            },
+            {
+              "login": "Kaela-4650",
+              "commits": 1
+            }
+          ],
+          "soleAuthor": false
+        },
+        "screenshots": []
+      }
+    }
+  ]
+}
