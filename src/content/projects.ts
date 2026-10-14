@@ -209,6 +209,43 @@ export const projects: CuratedProject[] = [
     featured: true,
   },
   {
+    slug: "bir-einvoice",
+    title: "BIR e-Invoice",
+    tagline: "Desktop invoicing system for BIR's Electronic Invoicing System (EIS)",
+    kind: "Personal",
+    status: "Completed",
+    period: "Oct 2026",
+    role: "Solo developer",
+    repo: "cedishii/bir-einvoice",
+    summary:
+      "A prototype invoicing system for a Philippine software company that bills clients in Japan. It issues zero-rated Service Invoices in yen with the peso equivalent, prints them as PDF, and produces e-invoices in the format of the Bureau of Internal Revenue's Electronic Invoicing System (JSON v2.1, under the TRAIN and EOPT laws), checked by a validator before anything is exported.",
+    features: [
+      "Invoice entry with a review step; control numbers are auto-incremented and never reused, and mistakes are voided rather than edited",
+      "JPY to PHP conversion with exact decimal math, kept per line so BIR's quantity × unit cost rule always holds",
+      "Printable Service Invoice PDF with the zero-rated sales summary and amount in words",
+      "EIS JSON export plus a validator that reports problems with BIR's own result codes (schema, TIN, dates, VAT, classification, duplicate IDs)",
+      "Sending to BIR: login, request signing, JWS-signed and AES-encrypted submissions, and result tracking",
+      "E-mails the invoice PDF to clients over SMTP, automatically on issue or on demand, with a safe test mode",
+      "Runs as a desktop app with its own window and taskbar icon, or in the browser",
+    ],
+    architecture: [
+      "Python with Flask for the interface and SQLite for storage, with schema migrations",
+      "Decimal arithmetic for money; a custom JSON writer keeps amounts at exactly two decimals",
+      "EIS client built on the cryptography library: HMAC-SHA256 request signatures, RSA login encryption, JWS RS256 and AES-256-CBC",
+      "Credentials and BIR-issued IDs live in a .env file, never in code; the app refuses to export or send while they are placeholders",
+      "Desktop window through pywebview and Microsoft Edge WebView2",
+      "Over 200 pytest tests, including a stand-in BIR server for the sending flow",
+    ],
+    contributions: [
+      { text: "Designed and built the app: invoicing, PDF, EIS export and validator, BIR client and desktop packaging", evidence: "sole-author" },
+    ],
+    contributionNote:
+      "A prototype prepared ahead of the company's EIS enrollment. Sending to BIR is tested against a stand-in server, not BIR's live sandbox.",
+    stack: ["Python", "Flask", "SQLite", "ReportLab", "cryptography", "pywebview", "pytest"],
+    sources: ["Repository README", "File tree", "Commit history"],
+    featured: true,
+  },
+  {
     slug: "action-cloner",
     title: "Action Cloner",
     tagline: "Lightweight macro recorder and auto clicker for Windows",

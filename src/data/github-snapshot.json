@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-13T14:32:24.707Z",
+  "generatedAt": "2026-10-14T15:25:43.403Z",
   "username": "cedishii",
   "profile": {
     "login": "cedishii",
     "name": "Cedrick Kaneko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141969356?v=4",
     "bio": "Cybersecurity Graduate from Mapua University | BSIT ",
-    "publicRepos": 14,
+    "publicRepos": 16,
     "followers": 7,
     "following": 8,
     "htmlUrl": "https://github.com/cedishii",
@@ -15,11 +15,11 @@
   "stars": 2,
   "contributions": {
     "source": "github-graphql",
-    "total": 194,
+    "total": 216,
     "years": [
       {
         "year": 2026,
-        "total": 173
+        "total": 195
       },
       {
         "year": 2025,
@@ -6008,7 +6008,7 @@
       {
         "date": "2026-04-09",
         "count": 5,
-        "level": 2
+        "level": 1
       },
       {
         "date": "2026-04-10",
@@ -6223,7 +6223,7 @@
       {
         "date": "2026-05-22",
         "count": 5,
-        "level": 2
+        "level": 1
       },
       {
         "date": "2026-05-23",
@@ -6253,7 +6253,7 @@
       {
         "date": "2026-05-28",
         "count": 15,
-        "level": 4
+        "level": 3
       },
       {
         "date": "2026-05-29",
@@ -6498,7 +6498,7 @@
       {
         "date": "2026-07-16",
         "count": 5,
-        "level": 2
+        "level": 1
       },
       {
         "date": "2026-07-17",
@@ -6942,12 +6942,253 @@
       },
       {
         "date": "2026-10-13",
-        "count": 6,
+        "count": 8,
         "level": 2
+      },
+      {
+        "date": "2026-10-14",
+        "count": 20,
+        "level": 4
       }
     ]
   },
   "repos": [
+    {
+      "name": "bir-einvoice",
+      "fullName": "cedishii/bir-einvoice",
+      "owner": "cedishii",
+      "description": "BIR EIS e-invoice prototype: zero-rated JPY service invoices, PDF and EIS v2.1 JSON",
+      "htmlUrl": "https://github.com/cedishii/bir-einvoice",
+      "homepage": null,
+      "language": "Python",
+      "languages": {
+        "Python": 211518,
+        "HTML": 30149,
+        "CSS": 11965,
+        "Batchfile": 1549
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-10-14T13:46:18Z",
+      "pushedAt": "2026-10-14T15:23:16Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 33,
+        "releases": 0,
+        "fileCount": 77,
+        "treeTruncated": false,
+        "topDirs": [
+          "assets",
+          "docs",
+          "einvoice",
+          "tests",
+          "tools"
+        ],
+        "tech": [
+          "CSS",
+          "HTML",
+          "Python"
+        ],
+        "readme": {
+          "title": "Micronet e-Invoice (BIR EIS prototype)",
+          "summary": "A small local app for Micronet Software Manila, Inc. It issues zero-rated Service Invoices to clients in Japan, billed in JPY with the PHP equivalent, prints them as PDF, and exports each one as an e-invoice in BIR's Electronic Invoicing System (EIS) JSON format v2.1, checked by a built-in validator.",
+          "headings": [
+            "Open it (Windows)",
+            "Using it",
+            "E-mailing invoices",
+            "BIR e-invoice JSON",
+            "Sending to BIR",
+            "How amounts are calculated",
+            "Settings (.env)",
+            "Back up",
+            "Development"
+          ],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 33,
+          "totalCommits": 33,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 33
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "gym-quest",
+      "fullName": "cedishii/gym-quest",
+      "owner": "cedishii",
+      "description": "Gym Quest: a personal fitness tracker with a pet RPG. Work out, feed your pet, beat the gym leaders.",
+      "htmlUrl": "https://github.com/cedishii/gym-quest",
+      "homepage": null,
+      "language": "Dart",
+      "languages": {
+        "Dart": 488206,
+        "Python": 16471,
+        "HTML": 1554,
+        "Swift": 900,
+        "Kotlin": 130,
+        "Objective-C": 38
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-10-14T09:00:38Z",
+      "pushedAt": "2026-10-14T10:02:41Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 13,
+        "releases": 2,
+        "fileCount": 507,
+        "treeTruncated": false,
+        "topDirs": [
+          "android",
+          "assets",
+          "branding",
+          "docs",
+          "ios",
+          "lib",
+          "test",
+          "tool",
+          "web"
+        ],
+        "tech": [
+          "Android",
+          "Dart",
+          "Flutter",
+          "HTML",
+          "Python"
+        ],
+        "readme": {
+          "title": "Gym Quest",
+          "summary": "A personal fitness tracker wrapped in a pet RPG. Real workouts earn food, food levels up your pet, and your pet battles its way past five elemental gym leaders, then climbs an endless tower.",
+          "headings": [
+            "Features",
+            "Running",
+            "Project layout",
+            "Data and asset tools",
+            "Balancing",
+            "Releasing",
+            "Credits",
+            "License"
+          ],
+          "features": [
+            "Profile with BMI (WHO Asia-Pacific or standard cut-offs), BMR (Mifflin-St Jeor), TDEE and a calorie/macro target. The target never goes below a safe floor.",
+            "Food log with an offline database of 7,000+ USDA foods, online Open Food Facts search and barcode lookup, and custom foods (for home cooking).",
+            "Rule-based weekly workout plans (full body / upper-lower / push-pull-legs) built from your goal, experience, equipment, days per week and BMI.",
+            "Live workout logging with exercise photos, personal records and estimated calories.",
+            "Five pets (Fire, Rock, Water, Leaf, Neutral) that grow bigger and gain auras as they level.",
+            "Workout rewards: kibble per exercise, a steak for a full workout, and a steak per personal record. A workout can only be rewarded once.",
+            "Five equipment slots (helmet, armor, boots, ring, amulet) that change stats.",
+            "Adventure map with 20 stages, five gym leaders and turn-based battles with element matchups.",
+            "Workout streaks (one rest day between workouts is allowed), streak milestones at 1/2/3/4 weeks and 1 month, 17 achievements, and an Endless Tower after the champion."
+          ]
+        },
+        "ownership": {
+          "yourCommits": 13,
+          "totalCommits": 13,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 13
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
+    {
+      "name": "kaneko.web",
+      "fullName": "cedishii/kaneko.web",
+      "owner": "cedishii",
+      "description": "kaneko.web is my personal tech portfolio where I showcase everything I’m building and learning — from system administration and server setups to cybersecurity projects and web deployments. It’s my space to track progress, share work, and grow as a tech professional.",
+      "htmlUrl": "https://github.com/cedishii/kaneko.web",
+      "homepage": null,
+      "language": "TypeScript",
+      "languages": {
+        "TypeScript": 166479,
+        "CSS": 4525,
+        "JavaScript": 465
+      },
+      "stars": 0,
+      "forks": 0,
+      "fork": false,
+      "archived": false,
+      "topics": [],
+      "license": null,
+      "createdAt": "2026-07-30T13:00:09Z",
+      "pushedAt": "2026-10-13T15:06:00Z",
+      "analysis": {
+        "category": "project",
+        "categoryReasons": [
+          "Has a README description and real source files"
+        ],
+        "commits": 2,
+        "releases": 0,
+        "fileCount": 50,
+        "treeTruncated": false,
+        "topDirs": [
+          "scripts",
+          "src"
+        ],
+        "tech": [
+          "CSS",
+          "Next.js",
+          "Node.js",
+          "React",
+          "Tailwind CSS",
+          "TypeScript"
+        ],
+        "readme": {
+          "title": "~/kaneko_ — personal portfolio",
+          "summary": "Personal developer portfolio of Cedrick Miguel Peji Kaneko: a dark, purple-accented site with a sidebar layout, live GitHub data (all-time contribution graph, repositories), project case studies built from verified repository information, and editable experience and skills.",
+          "headings": [
+            "Run it locally",
+            "Where everything is configured",
+            "GitHub username",
+            "Résumé",
+            "Projects",
+            "GitHub data: how it works",
+            "Contribution graph data source",
+            "Deploying (Vercel)",
+            "Accessibility and performance notes",
+            "Project structure"
+          ],
+          "features": []
+        },
+        "ownership": {
+          "yourCommits": 2,
+          "totalCommits": 2,
+          "contributors": [
+            {
+              "login": "cedishii",
+              "commits": 2
+            }
+          ],
+          "soleAuthor": true
+        },
+        "screenshots": []
+      }
+    },
     {
       "name": "project-1000",
       "fullName": "cedishii/project-1000",
@@ -7207,44 +7448,6 @@
             }
           ],
           "soleAuthor": true
-        },
-        "screenshots": []
-      }
-    },
-    {
-      "name": "kaneko.web",
-      "fullName": "cedishii/kaneko.web",
-      "owner": "cedishii",
-      "description": "kaneko.web is my personal tech portfolio where I showcase everything I’m building and learning — from system administration and server setups to cybersecurity projects and web deployments. It’s my space to track progress, share work, and grow as a tech professional.",
-      "htmlUrl": "https://github.com/cedishii/kaneko.web",
-      "homepage": null,
-      "language": null,
-      "languages": {},
-      "stars": 0,
-      "forks": 0,
-      "fork": false,
-      "archived": false,
-      "topics": [],
-      "license": null,
-      "createdAt": "2026-07-30T13:00:09Z",
-      "pushedAt": "2026-07-30T13:00:10Z",
-      "analysis": {
-        "category": "empty",
-        "categoryReasons": [
-          "Repository has no files"
-        ],
-        "commits": 0,
-        "releases": 0,
-        "fileCount": 0,
-        "treeTruncated": false,
-        "topDirs": [],
-        "tech": [],
-        "readme": null,
-        "ownership": {
-          "yourCommits": 0,
-          "totalCommits": 0,
-          "contributors": [],
-          "soleAuthor": false
         },
         "screenshots": []
       }
